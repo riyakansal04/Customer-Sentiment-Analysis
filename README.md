@@ -22,10 +22,10 @@ Customer sentiment analysis is crucial for understanding customer perceptions an
 
 ## Repository Structure
 
-- `data/`: Datasets used for model training and analysis.
+- `requirements.txt`: Lists all Python libraries that notebooks depend on.
   
-- `notebooks/`: Jupyter notebooks with detailed analyses, including data preprocessing steps and model evaluations.
-  
-- `scripts/`: Python scripts for specific tasks such as data preprocessing and model deployment.
-  
-- `docs/`: Documentation files detailing project methodologies, findings, and recommendations.
+- `notebooks/`: Contains Jupyter notebooks with detailed analyses:
+  - `USB-C_Charger_Above 60W Training RandomForest,ipynb`: Notebook for training a Random Forest model to analyze sentiment for USB-C chargers with power above 60W.
+  - `USB-C_Charger_Above 60W Training XGBT.ipynb`: Notebook for training an XGBoost model to analyze sentiment for USB-C chargers with power above 60W.
+  - `USB-C_Charger_Below 60W Training RandomForest.ipynb`: Notebook for training a Random Forest model to analyze sentiment for USB-C chargers with power below 60W.
+  - `USB-C_Charger_Below 60W Training XGBT.ipynb`:Notebook for training an XGBoost model to analyze sentiment for USB-C chargers with power below 60W.
