@@ -24,8 +24,7 @@ Customer sentiment analysis is crucial for understanding customer perceptions an
 
 - `requirements.txt`: Lists all Python libraries that notebooks depend on.
   
-- `notebooks/`: Contains Jupyter notebooks with detailed analyses:
-  - `USB-C_Charger_Above 60W Training RandomForest,ipynb`: Notebook for training a Random Forest model to analyze sentiment for USB-C chargers with power above 60W.
-  - `USB-C_Charger_Above 60W Training XGBT.ipynb`: Notebook for training an XGBoost model to analyze sentiment for USB-C chargers with power above 60W.
-  - `USB-C_Charger_Below 60W Training RandomForest.ipynb`: Notebook for training a Random Forest model to analyze sentiment for USB-C chargers with power below 60W.
-  - `USB-C_Charger_Below 60W Training XGBT.ipynb`:Notebook for training an XGBoost model to analyze sentiment for USB-C chargers with power below 60W.
+- `USB-C_Charger_Above 60W Training RandomForest,ipynb`: Notebook for training a Random Forest model to analyze sentiment for USB-C chargers with power above 60W.
+- `USB-C_Charger_Above 60W Training XGBT.ipynb`: Notebook for training an XGBoost model to analyze sentiment for USB-C chargers with power above 60W.
+- `USB-C_Charger_Below 60W Training RandomForest.ipynb`: Notebook for training a Random Forest model to analyze sentiment for USB-C chargers with power below 60W.
+- `USB-C_Charger_Below 60W Training XGBT.ipynb`:Notebook for training an XGBoost model to analyze sentiment for USB-C chargers with power below 60W.
